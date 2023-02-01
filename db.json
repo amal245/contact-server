@@ -1,0 +1,36 @@
+{
+  "contact": [
+    { 
+    "id": "cal",
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "company": "Romaguera-Crona",
+    "groupId":"1",
+    "photo":"https://tse4.mm.bing.net/th?id=OIP.bqIM20vqF5m8w897qscuDwHaJT&pid=Api&P=0"
+},
+{ 
+    "id": "cal",
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "company": "Romaguera-Crona",
+    "groupId":"1",
+    "photo":"https://tse4.mm.bing.net/th?id=OIP.bqIM20vqF5m8w897qscuDwHaJT&pid=Api&P=0"
+},
+{ 
+    "id": "cal",
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "company": "Romaguera-Crona",
+    "groupId":"1",
+    "photo":"https://tse4.mm.bing.net/th?id=OIP.bqIM20vqF5m8w897qscuDwHaJT&pid=Api&P=0"
+}
+  ],
+  "group": [
+    { "id": 1, "name": "friends" },
+    { "id": 1, "name": "friends" },
+    { "id": 1, "name": "friends" }
+  ]
+}
